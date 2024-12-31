@@ -1,0 +1,2 @@
+/give @a minecraft:crafting_table
+/give Player74 coal 74

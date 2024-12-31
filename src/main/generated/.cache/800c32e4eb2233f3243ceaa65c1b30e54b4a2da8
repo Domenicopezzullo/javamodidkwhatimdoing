@@ -1,0 +1,7 @@
+// 1.21.4	-999999999-01-01T00:00:00	mod/
+68b4eb5392709968285178c539471d57a41b784e data/mod/advancement/recipes/misc/suspicious_substance.json
+1e5ad86be11f5cd19ef277810e07d6eb3ca8e9ed data/mod/advancement/recipes/misc/suspicious_substance_from_smelting_charcoal.json
+e42d360f019f1088e1a07e04dc72882bf1568a5b data/mod/advancement/recipes/misc/suspicious_substance_from_smelting_coal.json
+3da758aff57d7f8aba4e839e5136cff5a8aa8f66 data/mod/recipe/suspicious_substance.json
+2bf26ae91f009e94586ae0781d6248b6651fdfa2 data/mod/recipe/suspicious_substance_from_smelting_charcoal.json
+2b30a946cb6d3f8504b510d9e5f4d489c7ee5dfd data/mod/recipe/suspicious_substance_from_smelting_coal.json

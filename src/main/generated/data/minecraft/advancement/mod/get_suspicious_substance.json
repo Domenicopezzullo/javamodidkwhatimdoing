@@ -1,0 +1,34 @@
+{
+  "criteria": {
+    "got_suspicious_substance": {
+      "conditions": {
+        "items": [
+          {
+            "items": "mod:suspicious_substance"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "background": "minecraft:textures/gui/advancements/backgrounds/adventure.png",
+    "description": {
+      "translate": "text.mod.got_suspicious_substance_desc"
+    },
+    "hidden": true,
+    "icon": {
+      "count": 1,
+      "id": "mod:suspicious_substance"
+    },
+    "title": {
+      "translate": "text.mod.got_suspicious_substance_tit"
+    }
+  },
+  "requirements": [
+    [
+      "got_suspicious_substance"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

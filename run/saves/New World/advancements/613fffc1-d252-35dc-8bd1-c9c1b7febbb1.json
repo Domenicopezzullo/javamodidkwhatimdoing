@@ -1,0 +1,45 @@
+{
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2024-12-31 20:17:14 +0100"
+    },
+    "done": true
+  },
+  "mod:recipes/misc/suspicious_substance": {
+    "criteria": {
+      "has_suspicious_substance": "2024-12-31 20:17:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-12-31 20:17:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:savanna": "2024-12-31 20:17:15 +0100"
+    },
+    "done": false
+  },
+  "mod:recipes/misc/suspicious_substance_from_smelting_coal": {
+    "criteria": {
+      "has_coal": "2024-12-31 20:17:14 +0100"
+    },
+    "done": true
+  },
+  "mod:recipes/misc/suspicious_substance_from_smelting_charcoal": {
+    "criteria": {
+      "has_charcoal": "2024-12-31 20:17:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-12-31 20:17:14 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 4189
+}
